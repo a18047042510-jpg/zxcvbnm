@@ -10,7 +10,7 @@ const CONFIG = {
   corpId: 'ww6f3e646ab817daf5',
   agentId: '1000013',
   secret: 'T_dvp8Nowjy7GjVQu3u3Ns-rt_G_-nNMqoIl_CmTpv8',
-  token: 'clawsbot_token_2024',
+  token: 'v8xMJemIzJqGBNnw',
 };
 // =====================
 
