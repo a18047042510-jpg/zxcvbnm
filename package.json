@@ -1,0 +1,12 @@
+{
+  "name": "clawsbot-wechat",
+  "version": "1.0.0",
+  "description": "企业微信适配器",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
