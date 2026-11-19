@@ -1,48 +1,48 @@
-﻿#,名称,类型,闲置天数,最后消息时间,app_id,bot_open_id,chat_id,状态
-1,门店销售管理,普通应用,371,2025-11-12 02:14,cli_a999c7dd75f6900d,ou_48d6b7a029a3239baaec2b7c1044b291,oc_ffc042734211800b3aa7fe7f27eae1bd,已静音
-2,飞虾,智能体,244,2026-03-19 01:00,cli_a9308b31acb8dcef,ou_892e3257d4c59afc80f59b4eb9e32663,oc_35571eaaac4301f644f428d138ef93a4,已静音
-3,AA,智能体,244,2026-03-19 01:00,cli_a9308ad1f2389cc8,ou_95004d7a5775a048725f3538f8444f7a,oc_636be8340bac82442a1c3973bf620239,已静音
-4,小杰的助手,智能体,244,2026-03-19 00:52,cli_a9384fe4f9741bc7,ou_a8c2ee41ed69d807e2f76617ff8ec843,oc_dca986bfad0373fdeab60bc89d10218e,已静音
-5,小虾米,智能体,236,2026-03-27 03:57,cli_a94f37313d78dbc3,ou_419357291883b33741c933f925f21e80,oc_6f5a94ada3f4c21681a4eda667f9959b,已静音
-6,小虾米,智能体,236,2026-03-27 03:57,cli_a930854c0bfa1bb5,ou_0793a4712370e9777f7be4c651b90150,oc_87920d534d20fbbf8d03afb3827f75ba,已静音
-7,MagicBook,智能体,223,2026-04-09 14:32,cli_a9590f63c4789ceb,ou_9767e795b4354f4385d2c9ca86103745,oc_b5baa562e37cf6a0cf95e8ea9b0e8d14,已静音
-8,MagicBook,智能体,217,2026-04-15 13:30,cli_a95e61cd15799bc8,ou_9cb5ee5212eb42e49cb847b7eea1c2cb,oc_5ff44e5c2bc1c468f5583ebb4bbb9e00,已静音
-9,Qclaw,智能体,213,2026-04-19 15:46,cli_a944ca16ef781cc2,ou_53c0cc6e710293a9f404b0e4fde5ed5b,oc_6cabbca612919844a1534ea9d7f904a3,已静音
-10,青Claw,智能体,213,2026-04-19 15:56,cli_a9428fa89eb89bb3,ou_13ad65fa7f8c1ba6d25b42c882a5c79f,oc_90492ba37484ac109a8f6ece264901bc,已静音
-11,飞书超级助手,智能体,211,2026-04-21 01:28,cli_a96cdc463a389bd3,ou_abeb6fc9776bb3bed2d4d93673bb1ffb,oc_0608d9c3bc3101a7e3590d1b8b882e4d,已静音
-12,第一性原理思考者,智能体,211,2026-04-21 02:18,cli_a96cf7a73578dcc9,ou_71d3a3702e090112eeb2c5b7fce7fb3c,oc_14729667e63daad3109bc21268f1a817,已静音
-13,抖音/快手运营,智能体,211,2026-04-21 01:06,cli_a96cf06e9038dcc4,ou_1a6c66bd6caeea89adb99f075af9e3d1,oc_1cd15ce67b46fb10e1daaac24ed7160b,已静音
-14,营销模板工厂,智能体,211,2026-04-21 01:05,cli_a96cf754fb389cd2,ou_6f1e31cc5f4b32bf03cd4312634d34f8,oc_4735983c9f359246788e600042ef6bc4,已静音
-15,微信小程序开发者,智能体,211,2026-04-21 01:12,cli_a96cf68e2e399cca,ou_80478e7a6093d7a747064481a8bac630,oc_673c9df0454f6c1bacb663d470319cc8,已静音
-16,产品经理 (云舒多视角版),智能体,211,2026-04-21 02:10,cli_a96cd8e882619cbd,ou_b23ea9189b83c6107b56d5573093e510,oc_7bfeef8eec7d3aeabd28366013036c04,已静音
-17,微信视频号运营策略师,智能体,211,2026-04-21 01:05,cli_a96cf6d15738dceb,ou_e3567ddf361a2fe3b50dfce01d53aa41,oc_89e80da172caa82eadc3a4e09942585c,已静音
-18,公众号写手,智能体,211,2026-04-21 13:49,cli_a96cf67d56b89cee,ou_e1af47e3c3a831d055b2847772a860a9,oc_a4202d1cffc719cdbb15ec3172c79d19,已静音
-19,小红书信息图设计师,智能体,211,2026-04-21 01:06,cli_a96cf15df9381bc8,ou_d9a51bcedbff6689653259362233261d,oc_f1d7c105a2e94eaeae7e4a68d6738e2a,已静音
-20,WorkBuddy,智能体,210,2026-04-22 11:44,cli_a94288a7fbb8dbcb,ou_3c8fa62f1c555503edf8f1fe72937e13,oc_1661da214bee2b1266d10cfe93dda24a,已静音
-21,OO,智能体,210,2026-04-22 19:24,cli_a9622b6ea7fadbca,ou_95316f037f04d9ab6ae9159ac81e6d38,oc_31aaa7771ec7ecfe5164c1853eb03749,已静音
-22,MiMo,智能体,210,2026-04-22 19:50,cli_a93d756e92f9dbdb,ou_1ea5bf402ccbc8b3f2233a21349600df,oc_95055b33ffa4142be7c5cc72e3d62946,已静音
-23,小杰的智能助手,智能体,210,2026-04-22 13:18,cli_a962e81f1438dbb4,ou_5edd39d6fd1d306513d1d7bc165f2c13,oc_f1e9c7a0148ba173dcab18055e1a7235,已静音
-24,小杰的智能助手,智能体,207,2026-04-25 21:27,cli_a96239c4bd38dbd2,ou_c2013237ba8fdbebd6546ca53f782c51,oc_d68b7de0cfbcc3c2272e45f23f686d4b,已静音
-25,科技情报员,智能体,206,2026-04-26 01:31,cli_a96cdc06dae1dcc3,ou_0d5d6b55b25075ceb9f98b1813d15540,oc_35a7556de719f20e75d53d30c9d2720e,已静音
-26,简历优化师,智能体,206,2026-04-26 01:32,cli_a96ce3fff1b89bb4,ou_affa642cda02637a24cac019e67ae35c,oc_fa3af5092c5f5e9587828453b53f4250,已静音
-27,Office 文档全能手,智能体,206,2026-04-26 23:10,cli_a96cf5eac8f8dcd2,ou_9f6666260a4a319c4323360e6ea824a7,oc_feace2b440c6ce9e1eb7c28eaf0b2650,已静音
-28,Work Buddy,智能体,202,2026-04-30 12:57,cli_a94f2ee587b8dbd9,ou_ec4e13e9fe737186988c46d8634b8210,oc_0f881eaefca23be77312c9c401295cca,已静音
-29,爱马是,智能体,198,2026-05-04 20:00,cli_a972daaac2f8dbd9,ou_1a6cb73fa8d54712ec9243d95dfb0c36,oc_99098b785e0d7ef85c88dc473323d263,已静音
-30,爱马是,智能体,198,2026-05-04 19:50,cli_a972cffd9b22dbcb,ou_2e3a63f423dd4fce9eb3ad8f3d84a116,oc_bc71f04e4a919bb77f945ec334f4b5ca,已静音
-31,微信小程序,智能体,195,2026-05-07 10:56,cli_a97e76df1af89cee,ou_b66c174dab94b30982a446a0a5a3dda7,oc_38839cb387d3afffb4531d1cf4f63aa6,已静音
-32,QClaw,智能体,195,2026-05-07 13:05,cli_a97e9d2340f85bcd,ou_b5db3e0b2ab925035ee88acf6cecbfe2,oc_9d80379802e3bba3df90c32b4efaa6e6,已静音
-33,Hermes ,智能体,195,2026-05-07 11:38,cli_a9723a189e38dbc6,ou_03a1c72c44d3ba7f3d5bde7996e45acb,oc_cd4b06b8c3a25a962650024490a342d5,已静音
-34,Q小红书,智能体,190,2026-05-12 23:10,cli_a97e7f8b8e385bb5,ou_e49b381917fd64bf6e137a6b83f2eb43,oc_d446d705bd2fc8e13ce2d5ee2166b2ce,已静音
-35,E490,智能体,188,2026-05-14 18:26,cli_aa8bcf967cf95bda,ou_68694a7af9b6a1b34e29c4297adccec3,oc_22faaecddb712e935b9a5873ec6f73a5,已静音
-36,小杰的智能助手,智能体,188,2026-05-14 15:21,cli_a97475fb09fadbc4,ou_0108936a00dea78b2b3f12e1d652d124,oc_670d8187881a3787f23568622d030b27,已静音
-37,秒 Claw,智能体,188,2026-05-14 02:19,cli_a96cf4aa54b85bdf,ou_a10488a6ce0ba525c2c9aa7549ad2e74,oc_a536c74ee552fbe198f315ee852ac4be,已静音
-38,小x,智能体,184,2026-05-18 22:55,cli_aa8199a0db79dcb0,ou_3caa82c558364019bfb615018cadcdb2,oc_d884f7a3402118806d2050b2c610f057,已静音
-39,OpenClaw,智能体,183,2026-05-19 17:29,cli_a9590fb6aa389bef,ou_2782c20870986a88bad774b6b689052d,oc_164f7a87cc706b536c618e7e5a131d38,已静音
-40,WorkBuddy,智能体,183,2026-05-19 12:06,cli_a9785de2b4789bd6,ou_d38b78110fe9129d5b9315f55828c507,oc_5310a07a0d356b05828a51aba0070e1d,已静音
-41,Ubuntu,智能体,183,2026-05-19 12:18,cli_a972dc4d57b91bdd,ou_a35bf09f4c51e4b807a2c61edd5f8ed2,oc_9d5a6ae9913176e5bc6270147e7b944c,已静音
-42,青训助理,智能体,从未发言,,cli_aa54a24b8538dce1,ou_f3a756e0f8073b54058f1d2fa1ee5fa4,oc_00718f0ce917b8056be8ff486e5df1de,已静音
-43,UI 设计师,智能体,从未发言,,cli_aa319d5d467adbb5,ou_66237a7ba97abe88b55d0d95b57d4ab2,oc_26aa7360b2024e91907321a5d53943a3,已静音
-44,小杰的飞书 CLI,智能体,从未发言,,cli_a972c263b4f89bde,ou_ec7bce78321a1d8b02becec9b7e81389,oc_ae6435544af299c8e97267908c48bfc4,已静音
-45,个人ip,智能体,从未发言,,cli_a96cdcdc2d389cef,ou_38c0d2259c7b2e1dad7a15ef1db8c4ea,oc_ba70280ad7e4e24e078c86cb926d86ce,已静音
-46,健身助理,智能体,从未发言,,cli_aa54a28445f89cf0,ou_baeae79e549579ee76cff6271b862226,oc_bcb79963410d1f1526deb66d286f0bba,已静音
-47,扣Claw,智能体,从未发言,,cli_a96e34e301619bb5,ou_a134771253673fbae37ca667d9091b94,oc_c78205de8c9fcbc47f4e232aaa73b4aa,已静音
+﻿#,名称,类型,死法,消息数,存活天数,闲置天数,app_id,bot_open_id,chat_id,后台删除入口
+1,青训助理,智能体,D0 从未启用,0,-,-,cli_aa54a24b8538dce1,ou_f3a756e0f8073b54058f1d2fa1ee5fa4,oc_00718f0ce917b8056be8ff486e5df1de,Aily 平台
+2,UI 设计师,智能体,D0 从未启用,0,-,-,cli_aa319d5d467adbb5,ou_66237a7ba97abe88b55d0d95b57d4ab2,oc_26aa7360b2024e91907321a5d53943a3,Aily 平台
+3,小杰的飞书 CLI,智能体,D0 从未启用,0,-,-,cli_a972c263b4f89bde,ou_ec7bce78321a1d8b02becec9b7e81389,oc_ae6435544af299c8e97267908c48bfc4,Aily 平台
+4,个人ip,智能体,D0 从未启用,0,-,-,cli_a96cdcdc2d389cef,ou_38c0d2259c7b2e1dad7a15ef1db8c4ea,oc_ba70280ad7e4e24e078c86cb926d86ce,Aily 平台
+5,健身助理,智能体,D0 从未启用,0,-,-,cli_aa54a28445f89cf0,ou_baeae79e549579ee76cff6271b862226,oc_bcb79963410d1f1526deb66d286f0bba,Aily 平台
+6,扣Claw,智能体,D0 从未启用,0,-,-,cli_a96e34e301619bb5,ou_a134771253673fbae37ca667d9091b94,oc_c78205de8c9fcbc47f4e232aaa73b4aa,Aily 平台
+7,第一性原理思考者,智能体,D1 当天试完就死,31,0,211,cli_a96cf7a73578dcc9,ou_71d3a3702e090112eeb2c5b7fce7fb3c,oc_14729667e63daad3109bc21268f1a817,Aily 平台
+8,公众号写手,智能体,D1 当天试完就死,31,0,211,cli_a96cf67d56b89cee,ou_e1af47e3c3a831d055b2847772a860a9,oc_a4202d1cffc719cdbb15ec3172c79d19,Aily 平台
+9,产品经理 (云舒多视角版),智能体,D1 当天试完就死,22,0,211,cli_a96cd8e882619cbd,ou_b23ea9189b83c6107b56d5573093e510,oc_7bfeef8eec7d3aeabd28366013036c04,Aily 平台
+10,爱马是,智能体,D1 当天试完就死,15,0,198,cli_a972cffd9b22dbcb,ou_2e3a63f423dd4fce9eb3ad8f3d84a116,oc_bc71f04e4a919bb77f945ec334f4b5ca,Aily 平台
+11,小虾米,智能体,D1 当天试完就死,12,0,236,cli_a94f37313d78dbc3,ou_419357291883b33741c933f925f21e80,oc_6f5a94ada3f4c21681a4eda667f9959b,Aily 平台
+12,OO,智能体,D1 当天试完就死,12,0,210,cli_a9622b6ea7fadbca,ou_95316f037f04d9ab6ae9159ac81e6d38,oc_31aaa7771ec7ecfe5164c1853eb03749,Aily 平台
+13,飞虾,智能体,D1 当天试完就死,7,0,244,cli_a9308b31acb8dcef,ou_892e3257d4c59afc80f59b4eb9e32663,oc_35571eaaac4301f644f428d138ef93a4,Aily 平台
+14,微信小程序开发者,智能体,D1 当天试完就死,7,0,211,cli_a96cf68e2e399cca,ou_80478e7a6093d7a747064481a8bac630,oc_673c9df0454f6c1bacb663d470319cc8,Aily 平台
+15,飞书超级助手,智能体,D1 当天试完就死,3,0,211,cli_a96cdc463a389bd3,ou_abeb6fc9776bb3bed2d4d93673bb1ffb,oc_0608d9c3bc3101a7e3590d1b8b882e4d,Aily 平台
+16,抖音/快手运营,智能体,D1 当天试完就死,3,0,211,cli_a96cf06e9038dcc4,ou_1a6c66bd6caeea89adb99f075af9e3d1,oc_1cd15ce67b46fb10e1daaac24ed7160b,Aily 平台
+17,营销模板工厂,智能体,D1 当天试完就死,3,0,211,cli_a96cf754fb389cd2,ou_6f1e31cc5f4b32bf03cd4312634d34f8,oc_4735983c9f359246788e600042ef6bc4,Aily 平台
+18,微信视频号运营策略师,智能体,D1 当天试完就死,3,0,211,cli_a96cf6d15738dceb,ou_e3567ddf361a2fe3b50dfce01d53aa41,oc_89e80da172caa82eadc3a4e09942585c,Aily 平台
+19,小红书信息图设计师,智能体,D1 当天试完就死,3,0,211,cli_a96cf15df9381bc8,ou_d9a51bcedbff6689653259362233261d,oc_f1d7c105a2e94eaeae7e4a68d6738e2a,Aily 平台
+20,小x,智能体,D1 当天试完就死,3,0,184,cli_aa8199a0db79dcb0,ou_3caa82c558364019bfb615018cadcdb2,oc_d884f7a3402118806d2050b2c610f057,Aily 平台
+21,门店销售管理,普通应用,D1 当天试完就死,2,0,371,cli_a999c7dd75f6900d,ou_48d6b7a029a3239baaec2b7c1044b291,oc_ffc042734211800b3aa7fe7f27eae1bd,开发者后台/管理后台
+22,AA,智能体,D1 当天试完就死,2,0,244,cli_a9308ad1f2389cc8,ou_95004d7a5775a048725f3538f8444f7a,oc_636be8340bac82442a1c3973bf620239,Aily 平台
+23,小杰的智能助手,智能体,D1 当天试完就死,2,0,210,cli_a962e81f1438dbb4,ou_5edd39d6fd1d306513d1d7bc165f2c13,oc_f1e9c7a0148ba173dcab18055e1a7235,Aily 平台
+24,爱马是,智能体,D1 当天试完就死,1,0,198,cli_a972daaac2f8dbd9,ou_1a6cb73fa8d54712ec9243d95dfb0c36,oc_99098b785e0d7ef85c88dc473323d263,Aily 平台
+25,小虾米,智能体,D2 一周内用完就死,500,3,241,cli_a930854c0bfa1bb5,ou_0793a4712370e9777f7be4c651b90150,oc_87920d534d20fbbf8d03afb3827f75ba,Aily 平台
+26,WorkBuddy,智能体,D2 一周内用完就死,500,5,217,cli_a94288a7fbb8dbcb,ou_3c8fa62f1c555503edf8f1fe72937e13,oc_1661da214bee2b1266d10cfe93dda24a,Aily 平台
+27,Ubuntu,智能体,D2 一周内用完就死,500,2,195,cli_a972dc4d57b91bdd,ou_a35bf09f4c51e4b807a2c61edd5f8ed2,oc_9d5a6ae9913176e5bc6270147e7b944c,Aily 平台
+28,Work Buddy,智能体,D2 一周内用完就死,493,7,202,cli_a94f2ee587b8dbd9,ou_ec4e13e9fe737186988c46d8634b8210,oc_0f881eaefca23be77312c9c401295cca,Aily 平台
+29,小杰的智能助手,智能体,D2 一周内用完就死,394,3,207,cli_a96239c4bd38dbd2,ou_c2013237ba8fdbebd6546ca53f782c51,oc_d68b7de0cfbcc3c2272e45f23f686d4b,Aily 平台
+30,QClaw,智能体,D2 一周内用完就死,274,5,195,cli_a97e9d2340f85bcd,ou_b5db3e0b2ab925035ee88acf6cecbfe2,oc_9d80379802e3bba3df90c32b4efaa6e6,Aily 平台
+31,MagicBook,智能体,D2 一周内用完就死,263,7,217,cli_a95e61cd15799bc8,ou_9cb5ee5212eb42e49cb847b7eea1c2cb,oc_5ff44e5c2bc1c468f5583ebb4bbb9e00,Aily 平台
+32,小杰的助手,智能体,D2 一周内用完就死,220,5,244,cli_a9384fe4f9741bc7,ou_a8c2ee41ed69d807e2f76617ff8ec843,oc_dca986bfad0373fdeab60bc89d10218e,Aily 平台
+33,Hermes ,智能体,D2 一周内用完就死,213,2,195,cli_a9723a189e38dbc6,ou_03a1c72c44d3ba7f3d5bde7996e45acb,oc_cd4b06b8c3a25a962650024490a342d5,Aily 平台
+34,MagicBook,智能体,D2 一周内用完就死,177,2,223,cli_a9590f63c4789ceb,ou_9767e795b4354f4385d2c9ca86103745,oc_b5baa562e37cf6a0cf95e8ea9b0e8d14,Aily 平台
+35,小杰的智能助手,智能体,D2 一周内用完就死,139,1,188,cli_a97475fb09fadbc4,ou_0108936a00dea78b2b3f12e1d652d124,oc_670d8187881a3787f23568622d030b27,Aily 平台
+36,微信小程序,智能体,D2 一周内用完就死,109,5,195,cli_a97e76df1af89cee,ou_b66c174dab94b30982a446a0a5a3dda7,oc_38839cb387d3afffb4531d1cf4f63aa6,Aily 平台
+37,E490,智能体,D2 一周内用完就死,86,3,188,cli_aa8bcf967cf95bda,ou_68694a7af9b6a1b34e29c4297adccec3,oc_22faaecddb712e935b9a5873ec6f73a5,Aily 平台
+38,Office 文档全能手,智能体,D2 一周内用完就死,46,5,206,cli_a96cf5eac8f8dcd2,ou_9f6666260a4a319c4323360e6ea824a7,oc_feace2b440c6ce9e1eb7c28eaf0b2650,Aily 平台
+39,秒 Claw,智能体,D2 一周内用完就死,13,5,188,cli_a96cf4aa54b85bdf,ou_a10488a6ce0ba525c2c9aa7549ad2e74,oc_a536c74ee552fbe198f315ee852ac4be,Aily 平台
+40,青Claw,智能体,D2 一周内用完就死,11,5,213,cli_a9428fa89eb89bb3,ou_13ad65fa7f8c1ba6d25b42c882a5c79f,oc_90492ba37484ac109a8f6ece264901bc,Aily 平台
+41,简历优化师,智能体,D2 一周内用完就死,11,5,206,cli_a96ce3fff1b89bb4,ou_affa642cda02637a24cac019e67ae35c,oc_fa3af5092c5f5e9587828453b53f4250,Aily 平台
+42,科技情报员,智能体,D2 一周内用完就死,5,5,206,cli_a96cdc06dae1dcc3,ou_0d5d6b55b25075ceb9f98b1813d15540,oc_35a7556de719f20e75d53d30c9d2720e,Aily 平台
+43,MiMo,智能体,D2 一周内用完就死,2,2,210,cli_a93d756e92f9dbdb,ou_1ea5bf402ccbc8b3f2233a21349600df,oc_95055b33ffa4142be7c5cc72e3d62946,Aily 平台
+44,Qclaw,智能体,D3 一个月内用完就死,387,16,213,cli_a944ca16ef781cc2,ou_53c0cc6e710293a9f404b0e4fde5ed5b,oc_6cabbca612919844a1534ea9d7f904a3,Aily 平台
+45,OpenClaw,智能体,D3 一个月内用完就死,248,27,183,cli_a9590fb6aa389bef,ou_2782c20870986a88bad774b6b689052d,oc_164f7a87cc706b536c618e7e5a131d38,Aily 平台
+46,WorkBuddy,智能体,D3 一个月内用完就死,202,17,183,cli_a9785de2b4789bd6,ou_d38b78110fe9129d5b9315f55828c507,oc_5310a07a0d356b05828a51aba0070e1d,Aily 平台
+47,Q小红书,智能体,D3 一个月内用完就死,40,10,190,cli_a97e7f8b8e385bb5,ou_e49b381917fd64bf6e137a6b83f2eb43,oc_d446d705bd2fc8e13ce2d5ee2166b2ce,Aily 平台

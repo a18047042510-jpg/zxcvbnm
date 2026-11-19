@@ -1,0 +1,52 @@
+# 待删除 app_id（47 个）
+
+## 智能体 Aily（46）
+cli_aa54a24b8538dce1	青训助理
+cli_aa319d5d467adbb5	UI 设计师
+cli_a972c263b4f89bde	小杰的飞书 CLI
+cli_a96cdcdc2d389cef	个人ip
+cli_aa54a28445f89cf0	健身助理
+cli_a96e34e301619bb5	扣Claw
+cli_a96cf7a73578dcc9	第一性原理思考者
+cli_a96cf67d56b89cee	公众号写手
+cli_a96cd8e882619cbd	产品经理 (云舒多视角版)
+cli_a972cffd9b22dbcb	爱马是
+cli_a94f37313d78dbc3	小虾米
+cli_a9622b6ea7fadbca	OO
+cli_a9308b31acb8dcef	飞虾
+cli_a96cf68e2e399cca	微信小程序开发者
+cli_a96cdc463a389bd3	飞书超级助手
+cli_a96cf06e9038dcc4	抖音/快手运营
+cli_a96cf754fb389cd2	营销模板工厂
+cli_a96cf6d15738dceb	微信视频号运营策略师
+cli_a96cf15df9381bc8	小红书信息图设计师
+cli_aa8199a0db79dcb0	小x
+cli_a9308ad1f2389cc8	AA
+cli_a962e81f1438dbb4	小杰的智能助手
+cli_a972daaac2f8dbd9	爱马是
+cli_a930854c0bfa1bb5	小虾米
+cli_a94288a7fbb8dbcb	WorkBuddy
+cli_a972dc4d57b91bdd	Ubuntu
+cli_a94f2ee587b8dbd9	Work Buddy
+cli_a96239c4bd38dbd2	小杰的智能助手
+cli_a97e9d2340f85bcd	QClaw
+cli_a95e61cd15799bc8	MagicBook
+cli_a9384fe4f9741bc7	小杰的助手
+cli_a9723a189e38dbc6	Hermes 
+cli_a9590f63c4789ceb	MagicBook
+cli_a97475fb09fadbc4	小杰的智能助手
+cli_a97e76df1af89cee	微信小程序
+cli_aa8bcf967cf95bda	E490
+cli_a96cf5eac8f8dcd2	Office 文档全能手
+cli_a96cf4aa54b85bdf	秒 Claw
+cli_a9428fa89eb89bb3	青Claw
+cli_a96ce3fff1b89bb4	简历优化师
+cli_a96cdc06dae1dcc3	科技情报员
+cli_a93d756e92f9dbdb	MiMo
+cli_a944ca16ef781cc2	Qclaw
+cli_a9590fb6aa389bef	OpenClaw
+cli_a9785de2b4789bd6	WorkBuddy
+cli_a97e7f8b8e385bb5	Q小红书
+
+## 普通应用（1）
+cli_a999c7dd75f6900d	门店销售管理
